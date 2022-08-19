@@ -11,7 +11,7 @@ const myPerson = {
   age: 17,
   birthday: "2005/05/16",
   osUsed: ["Windows", "Linux", "Mac"],
-  discord: "Kennedy#1000",
+  discord: "Kennedy#8204",
 };
 ```
 

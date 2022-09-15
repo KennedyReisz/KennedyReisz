@@ -1,5 +1,5 @@
 <div align=center>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&center=true&width=435&lines=Hello+World;I'm+Kennedy" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&center=true&width=435&lines=Hello+World;I'm+Kennedy!" alt="Typing SVG" /></a>
 </div>
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=KennedyReisz&theme=github-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)

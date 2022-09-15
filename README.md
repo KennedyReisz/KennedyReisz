@@ -2,18 +2,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&center=true&width=435&lines=Hello+World;I'm+Kennedy" alt="Typing SVG" /></a>
 </div>
 
-```js
-const myPerson = {
-  realName: "Kennedy",
-  lastName: "Reis",
-  fullName: "Kennedy Reis",
-  from: "Maringá - PR (Brazil)",
-  age: 17,
-  birthday: "2005/05/16",
-  osUsed: ["Windows", "Linux", "Mac"],
-  discord: "Kennedy#8204",
-};
-```
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=KennedyReisz&theme=github-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ###
 

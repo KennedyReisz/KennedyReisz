@@ -1,5 +1,4 @@
-<h1 align="center">< Hello World ></h1>
-<h2 align="center">I'm Kennedy <img align="center" width="40x" src="https://cdn3.emoji.gg/emojis/9832-vsl-handshake.png"/></h2>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&center=true&width=435&lines=Hello+World;I'm+Kennedy" alt="Typing SVG" /></a>
 
 ```js
 const myPerson = {

@@ -1,6 +1,5 @@
 <h1 align="center">< Hello World ></h1>
 <h2 align="center">I'm Kennedy <img align="center" width="40x" src="https://cdn3.emoji.gg/emojis/9832-vsl-handshake.png"/></h2>
-<p align="center">< Fullstack Developer /></p>
 
 ```js
 const myPerson = {

@@ -15,7 +15,7 @@
 </div>
 
 <div style="display: inline_block" align="center"><br>
-  <h3 align="center">Technologies <img align="center" width="35x" src="https://cdn3.emoji.gg/emojis/3085-vsl-developer.png"/></h3>
+  <h3 align="center"><img align="center" width="35x" src="https://cdn3.emoji.gg/emojis/3085-vsl-developer.png](https://cdn3.emoji.gg/emojis/7386-text-g.png"/> Technologies</h3>
   <img align="center" alt="logo-html" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img align="center" alt="logo-css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img align="center" alt="logo-javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
@@ -29,7 +29,7 @@
 <br/>
 
 <div align=center>
-  <h4 align="center">Technologies Studying <img align="center" width="35x" src="https://cdn3.emoji.gg/emojis/6704-vsl-search.png"/></h4>
+  <h4 align="center"><img align="center" width="35x" src="https://cdn3.emoji.gg/emojis/3085-vsl-developer.png](https://cdn3.emoji.gg/emojis/7386-text-g.png"/> Technologies Studying</h4>
   <img align="center" alt="logo-ruby" src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white">
   <img align="center" alt="logo-rust" src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white">
   <img align="center" alt="logo-lua" src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white">
@@ -38,7 +38,7 @@
 <br/>
 
 <div align=center>
-  <h4 align="center">Operating Systems Used <img align="center" width="35x" src="https://cdn3.emoji.gg/emojis/8965-vsl-home.png"/></h4>
+  <h4 align="center"><img align="center" width="35x" src="https://cdn3.emoji.gg/emojis/3085-vsl-developer.png](https://cdn3.emoji.gg/emojis/7386-text-g.png"/> Operating Systems Used</h4>
   <img align="center" alt="logo-macos" src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white">
   <img align="center" alt="logo-windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
   <img align="center" alt="logo-archlinux" src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white">
@@ -51,7 +51,7 @@
 <br/>
 
 <div align=center>
-  <h4 align="center">Tools Used <img align="center" width="35x" src="https://cdn3.emoji.gg/emojis/8635-vsl-settings.png"/></h4>
+  <h4 align="center"><img align="center" width="35x" src="https://cdn3.emoji.gg/emojis/3085-vsl-developer.png](https://cdn3.emoji.gg/emojis/7386-text-g.png"/> Tools Used</h4>
   <img align="center" alt="logo-vscode" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
   <img align="center" alt="logo-vs" src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white">
   <img align="center" alt="logo-xcode" src="https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white">

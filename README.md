@@ -31,7 +31,7 @@
 <div align=center>
   <h4 align="center"><img align="center" width="35x" src="https://cdn3.emoji.gg/emojis/3085-vsl-developer.png](https://cdn3.emoji.gg/emojis/7386-text-g.png"/> Technologies Studying</h4>
 
-[![My Skills](https://skills.thijs.gg/icons?i=vuejs,graphql,coffeescript&theme=dark)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=vuejs,graphql&theme=dark)](https://skills.thijs.gg)
 
 </div>
 

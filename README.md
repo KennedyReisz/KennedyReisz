@@ -26,7 +26,7 @@
 <div align=center>
   <h3 align="center"><img align="center" width="35x" src="https://cdn3.emoji.gg/emojis/3085-vsl-developer.png](https://cdn3.emoji.gg/emojis/7386-text-g.png"/> Technologies Studying</h3>
 
-[![My Skills](https://skills.thijs.gg/icons?i=golang,angular,graphql&theme=dark)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=golang,dotnet,angular,graphql&theme=dark)](https://skills.thijs.gg)
 
 </div>
 

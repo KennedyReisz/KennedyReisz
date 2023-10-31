@@ -26,13 +26,13 @@
 <div align=center>
   <h3 align="center"><img align="center" width="35x" src="https://cdn3.emoji.gg/emojis/3085-vsl-developer.png](https://cdn3.emoji.gg/emojis/7386-text-g.png"/> Technologies Studying</h3>
 
-[![My Skills](https://skills.thijs.gg/icons?i=golang,dotnet,angular,graphql&theme=dark)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=angular,dotnet,golang&theme=dark)](https://skills.thijs.gg)
 
 </div>
 
 <div align=center>
   <h3 align="center"><img align="center" width="35x" src="https://cdn3.emoji.gg/emojis/3085-vsl-developer.png](https://cdn3.emoji.gg/emojis/7386-text-g.png"/> Tools Used</h3>
 
-[![My Skills](https://skills.thijs.gg/icons?i=vscode,visualstudio,neovim,git,github,figma,xd,photoshop&theme=dark)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=vscode,visualstudio,git,github,figma&theme=dark)](https://skills.thijs.gg)
 
 </div>

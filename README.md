@@ -1,38 +1,46 @@
-<div align=center>
-<img src="https://readme-typing-svg.demolab.com?font=Comic+Mono&pause=1000&color=F7CB00&center=true&width=435&lines=Hello%2C+I'm+Kennedy." alt="Typing SVG" />
+# Bem-vindo ao meu perfil do GitHub! 👋
+
+Olá! Meu nome é **Kennedy**, um desenvolvedor web fullstack apaixonado por programação. Estou imerso no mundo da codificação desde 2020 e continuo aprendendo e aprimorando minhas habilidades a cada dia.
+
+## Sobre Mim
+
+- 🌐 Desenvolvedor Web Fullstack
+- 📚 Estudando programação desde 2020
+- 🚀 Sempre em busca de desafios e aprendizado contínuo
+
+## Tecnologias
+
+- 💻 Linguagens: Javascript, Typescript, C#
+- 🌐 Frameworks: Node.js, Express, React, Next.js, Astro, Sass, Tailwind, Styled Component's
+- 🛢️ Bancos de Dados: MySQL, PostgreSQL, MongoDB
+- ⚙️ Ferramentas: Git, VS Code, Visual Studio
+
+## Estudando
+- 🌐 Frameworks: .NET, Angular, Supabase
+
+## Habilidades
+
+- 🎈 Resolução criativa de problemas
+- 🚩 Trabalho em equipe
+- 🧠 Aprendizado rápido
+
+## Hobby
+
+- 📖 Estudar novas tecnologias
+- 📚 Sempre buscando novos livros para ler
+- 🎶 Escutar musicas
+- 🎮 Curto jogar Project Zomboid nas horas vagas
+
+Sinta-se à vontade para explorar meus repositórios e entre em contato se quiser colaborar em algum projeto ou apenas trocar ideias sobre desenvolvimento web. Vamos criar algo incrível juntos! 🚀
+
+<div style="display: flex">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=KennedyReisz&show_icons=true&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KennedyReisz&layout=compact&theme=dark"/>
 </div>
 
-<div align="center">
-  <a href="https://github.com/KennedyReisz" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KennedyReisz&show_icons=true&theme=ayu-mirage&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KennedyReisz&layout=compact&theme=ayu-mirage"/>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=KennedyReisz&theme=dark&border_radius=5&card_width=763)](https://git.io/streak-stats)
 
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=KennedyReisz&theme=ayu-mirage&border_radius=5&card_width=765)](https://git.io/streak-stats)
-
-<div style="display: inline_block" align="center"><br>
- <h3 align="center"><img align="center" width="35x" src="https://cdn3.emoji.gg/emojis/3085-vsl-developer.png](https://cdn3.emoji.gg/emojis/7386-text-g.png"/> Technologies</h3>
-  
-  [![My Skills](https://skills.thijs.gg/icons?i=html,css,js,ts,nodejs,react,nextjs,prisma,sass,tailwind,styledcomponents&theme=dark)](https://skills.thijs.gg)
-  
-</div>
-
-<div style="display: inline_block" align="center"><br>
- <h3 align="center"><img align="center" width="35x" src="https://cdn3.emoji.gg/emojis/3085-vsl-developer.png](https://cdn3.emoji.gg/emojis/7386-text-g.png"/> Databases</h3>
-  
-  [![My Skills](https://skills.thijs.gg/icons?i=mysql,postgres,mongodb&theme=dark)](https://skills.thijs.gg)
-  
-</div>
-
-<div align=center>
-  <h3 align="center"><img align="center" width="35x" src="https://cdn3.emoji.gg/emojis/3085-vsl-developer.png](https://cdn3.emoji.gg/emojis/7386-text-g.png"/> Technologies Studying</h3>
-
-[![My Skills](https://skills.thijs.gg/icons?i=angular,dotnet&theme=dark)](https://skills.thijs.gg)
-
-</div>
-
-<div align=center>
-  <h3 align="center"><img align="center" width="35x" src="https://cdn3.emoji.gg/emojis/3085-vsl-developer.png](https://cdn3.emoji.gg/emojis/7386-text-g.png"/> Frequently Used Tools</h3>
-
-[![My Skills](https://skills.thijs.gg/icons?i=vscode,visualstudio,figma&theme=dark)](https://skills.thijs.gg)
-
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
+</p>

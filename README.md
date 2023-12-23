@@ -34,7 +34,6 @@ Olá! Meu nome é **Kennedy**, um desenvolvedor web fullstack apaixonado por pro
 Sinta-se à vontade para explorar meus repositórios e entre em contato se quiser colaborar em algum projeto ou apenas trocar ideias sobre desenvolvimento web. Vamos criar algo incrível juntos! 🚀
 
 <div style="display: flex">
-
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KennedyReisz&show_icons=true&theme=dark"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KennedyReisz&layout=compact&theme=dark"/>
 </div>

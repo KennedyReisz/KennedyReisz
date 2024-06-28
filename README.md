@@ -14,7 +14,7 @@ Olá! Meu nome é **Kennedy**, um desenvolvedor web fullstack apaixonado por pro
 - 🌐 Frameworks: Node.js, Express, React, Next.js, Astro, Sass, Tailwind, Styled Component's
 - 🛢️ Bancos de Dados: MySQL, PostgreSQL, MongoDB
 - ⚙️ Ferramentas: Git, VS Code, Visual Studio
-- 🔮 Estudando: .NET, Angular, Supabase
+- 🔮 Estudando: PHP, .NET, Angular
 
 ## Habilidades
 

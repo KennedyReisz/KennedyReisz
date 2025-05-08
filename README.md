@@ -16,19 +16,6 @@ Olá! Meu nome é **Kennedy**, um desenvolvedor web fullstack apaixonado por pro
 - ⚙️ Ferramentas: Git, VS Code, Visual Studio
 - 🔮 Estudando: PHP, .NET, Angular
 
-## Habilidades
-
-- 🎈 Resolução criativa de problemas
-- 🚩 Trabalho em equipe
-- 🧠 Aprendizado rápido
-
-## Hobby
-
-- 📖 Estudar novas tecnologias
-- 📚 Sempre buscando novos livros para ler
-- 🎶 Escutar musicas
-- 🎮 Curto jogar Project Zomboid nas horas vagas
-
 Sinta-se à vontade para explorar meus repositórios e entre em contato se quiser colaborar em algum projeto ou apenas trocar ideias sobre desenvolvimento web. Vamos criar algo incrível juntos! 🚀
 
 <div style="display: flex">

@@ -10,11 +10,7 @@ Olá! Meu nome é **Kennedy**, um desenvolvedor web fullstack apaixonado por pro
 
 ## Tecnologias
 
-- 💻 Linguagens: Javascript, Typescript, C#
-- 🌐 Frameworks: Node.js, Express, React, Next.js, Astro, Sass, Tailwind, Styled Component's
-- 🛢️ Bancos de Dados: MySQL, PostgreSQL, MongoDB
-- ⚙️ Ferramentas: Git, VS Code, Visual Studio
-- 🔮 Estudando: PHP, .NET, Angular
+[![My Skills](https://skillicons.dev/icons?i=neovim,js,ts,nodejs,bun,express,nest,elysia,react,next,astro,vue,nuxt,tailwind,sass,postgres,mysql,mongo&perline=6)](https://skillicons.dev)
 
 Sinta-se à vontade para explorar meus repositórios e entre em contato se quiser colaborar em algum projeto ou apenas trocar ideias sobre desenvolvimento web. Vamos criar algo incrível juntos! 🚀
 
@@ -22,9 +18,3 @@ Sinta-se à vontade para explorar meus repositórios e entre em contato se quise
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KennedyReisz&show_icons=true&theme=dark"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KennedyReisz&layout=compact&theme=dark"/>
 </div>
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=KennedyReisz&theme=dark&border_radius=5&card_width=763)](https://git.io/streak-stats)
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
-</p>

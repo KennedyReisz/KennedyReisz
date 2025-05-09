@@ -1,12 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=EF626C&random=false&width=600&lines=Bem-vindo+ao+meu+perfil+do+GitHub!+%F0%9F%91%8B)](https://git.io/typing-svg)
 
-Olá! Meu nome é **Kennedy**, um desenvolvedor web fullstack apaixonado por programação. Estou imerso no mundo da codificação desde 2020 e continuo aprendendo e aprimorando minhas habilidades a cada dia.
-
 ## Sobre Mim
-
-- 🌐 Desenvolvedor Web Fullstack
-- 📚 Estudando programação desde 2020
-- 🚀 Sempre em busca de desafios e aprendizado contínuo
+Olá! Meu nome é **Kennedy**, um desenvolvedor web fullstack apaixonado por programação. Estou imerso no mundo da programação desde 2020 e continuo aprendendo e aprimorando minhas habilidades a cada dia.
 
 ## Tecnologias
 
